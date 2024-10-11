@@ -1,0 +1,56 @@
+
+h1{
+    color: #a05f97;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: 100px;
+}
+
+.one{
+    display: flex;
+    justify-content: center;
+}
+
+.two{
+    margin-left: 20%;
+    color:rgb(37, 99, 37);
+    font-size: 35px;
+}
+
+.taskbtn{
+    margin-left: 20px;
+    border:1px solid black;
+    border-radius: 10px;
+    background-color: #b1adad;
+    color: gray;
+    font-size: 25px;   
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #b1adad;
+    color: blacck;
+    font-size: 30px;
+}
+
+.delete{
+    color: rgb(179, 21, 21);
+    background-color: rgb(161, 82, 82);
+    font-size: 23px;
+    margin-left: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.container{
+    height: 70%;
+    width: 40%;
+    margin: auto;
+    margin-top: 8%;
+}
+
+#placeholder{
+    color: #fff;
+}
